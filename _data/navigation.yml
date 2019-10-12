@@ -1,7 +1,6 @@
-# main links links
+# main links links, we are going for one flat layout for simplicity
 main:
-  - title: "Publications"
-    url: "/publications/"
-    
-  - title: "CV"
-    url: "/files/CV_Lee.pdf"
+#  - title: "Publications"
+#    url: "/publications/"
+#  - title: "CV"
+#    url: "/files/CV_Lee.pdf"
