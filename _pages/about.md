@@ -23,27 +23,37 @@ For a comprehensive list of publications, please refer to my CV.
 
 **J.B. Lee**, R.A. Rossi, and X. Kong. Graph classification using structural attention. In *Proc. of* **KDD**, 2018. `acceptance rate: 10.9%` [[pdf](http://johnboaz.github.io/files/KDD2018.pdf)]
 {: .notice}
-G.H. Nguyen, **J.B. Lee**, R.A. Rossi, N.K. Ahmed, E. Koh, and S. Kim. Dynamic network embeddings: From random walks to temporal random walks. In *Proc. of* **BigData**, 2018. `also appeared as a workshop paper in WWW` [[pdf](http://johnboaz.github.io/files/BigData2018.pdf)]
+
+G.H. Nguyen, **J.B. Lee**, R.A. Rossi, N.K. Ahmed, E. Koh, and S. Kim. Dynamic network embeddings: From random walks to temporal random walks. In *Proc. of* **BigData**, 2018. `workshop paper @ WWW` [[pdf](http://johnboaz.github.io/files/BigData2018.pdf)]
 {: .notice}
+
 G.H. Nguyen, **J.B. Lee**, R.A. Rossi, N.K. Ahmed, E. Koh, and S. Kim. Continuous-time dynamic network embeddings. In *Companion Proc. of* **WWW**, 2018.
 {: .notice}
-**J.B. Lee**, X. Kong, Y. Bao, and C. Moore. Identifying deep contrasting networks from time series data: Application to brain network analysis. In *Proc. of* **SDM**, 2017. [[pdf](http://johnboaz.github.io/files/SDM2017.pdf)]
+
+**J.B. Lee**, X. Kong, Y. Bao, and C. Moore. Identifying deep contrasting networks from time series data: Application to brain network analysis. In *Proc. of* **SDM**, 2017. `acceptance rate: 25.9%` [[pdf](http://johnboaz.github.io/files/SDM2017.pdf)]
 {: .notice}
+
 **J.B. Lee**, A. Ihara, A. Monden, and K. Matsumoto. Patch reviewer recommendation in OSS projects. In *Proc. of* **APSEC**, 2013. `best presentation award` [[pdf](http://johnboaz.github.io/files/APSEC2013.pdf)]
 {: .notice}
+
 **J.B. Lee**, M. Ybañez, M.M. de Leon, and M.R.E. Estuar. Understanding the behavior of Filipino Twitter users during disaster. *Journal on Computing* (**JoC**) 3(2), 2013.
 {: .notice}
+
 **J.B. Lee** and M. Ybañez. Characterizing behavior and features of participants and observers during disaster on Twitter. In *Proc. of* **CGAT**, 2013.
 {: .notice}
-**J.B. Lee** and H. Adorna. Link prediction in a modified heterogeneous bibliographic network. In *Proc. of* **ASONAM**, 2012. [[pdf](http://johnboaz.github.io/files/ASONAM2012.pdf)]
+
+**J.B. Lee** and H. Adorna. Link prediction in a modified heterogeneous bibliographic network. In *Proc. of* **ASONAM**, 2012. `acceptance rate: 16.2%` [[pdf](http://johnboaz.github.io/files/ASONAM2012.pdf)]
 {: .notice}
+
 **J.B. Lee**, G. Cabunducan, R. Castillo, F.G. Cabarle, and J.A. Malinao. Uncovering the social dynamics of online elections. *Journal of Universal Computer Science* (**J.UCS**) 18(4), 2012. [[pdf](http://johnboaz.github.io/files/JUCS2012.pdf)]
 {: .notice}
+
 J.A. Malinao, R.A.B. Juayong, E.R.F. Oquendo, R.M.U. Tadlas, **J.B. Lee**, J.B. Clemente, M.S. Gaabucayan-Napalang, J.R.F. Regidor, and H.N. Adorna. A quantitative analysis-based algorithm for optimal data signature construction of traffic data sets. *Journal of Information Processing* (**JIP**) 21(3), 2012.
 {: .notice}
+
 G. Cabunducan, R. Castillo, and **J.B. Lee**. Voting behavior analysis in the election of Wikipedia admins. In *Proc. of* **ASONAM**, 2011. `best poster paper award` [[pdf](http://johnboaz.github.io/files/ASONAM2011.pdf), [poster](http://johnboaz.github.io/files/ASONAM2011_pos.pdf)]
 {: .notice}
 
 Contact
 ------
-Please drop me a line at *jtlee 'at' wpi 'dot' edu* if you wish to get in touch. 
+If you wish to get in touch, please drop me a line at *jtlee 'at' wpi 'dot' edu*. 
