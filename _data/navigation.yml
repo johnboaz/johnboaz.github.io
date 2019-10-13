@@ -1,4 +1,5 @@
-# main links links, we are going for one flat layout for simplicity
+# we are going for one flat layout for simplicity
+# we can always add tabs later on
 main:
 #  - title: "Publications"
 #    url: "/publications/"

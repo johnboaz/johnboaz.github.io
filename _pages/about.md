@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a researcher working in the areas of deep learning, data mining, information and social network analysis, and reinforcement learning. In January of 2020, I will be joining the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/). From 2015-2019, I was a graduate student at [WPI](https://www.wpi.edu/) in the Computer Science Department—where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). Here is a copy of my [CV](http://johnboaz.github.io/files/CV_Lee.pdf).
+Hi! I am a researcher whose areas of research include deep learning, data mining, information and social network analysis, and reinforcement learning. In January of 2020, I will be joining the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/) as a Research Scientist. Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
 
-selected publications
+From 2015-2019, I was a PhD student at [WPI](https://www.wpi.edu/) in the Computer Science Department—where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). The latest copy of my CV can be found [here](http://johnboaz.github.io/files/CV_Lee.pdf).
+
+Selected Publications
 ------
 For a comprehensive list of publications, please refer to my CV.
 
@@ -40,6 +42,6 @@ J.A. Malinao, R.A.B. Juayong, E.R.F. Oquendo, R.M.U. Tadlas, **J.B. Lee**, J.B. 
 G. Cabunducan, R. Castillo, and **J.B. Lee**. Voting behavior analysis in the election of Wikipedia admins. In *Proc. of* **ASONAM**, 2011. `best poster paper award` [[pdf](http://johnboaz.github.io/files/ASONAM2011.pdf), [poster](http://johnboaz.github.io/files/ASONAM2011_pos.pdf)]
 {: .notice}
 
-contact
+Contact
 ------
-If you wish to get in touch, please drop me a line at *jtlee 'at' wpi 'dot' edu*.
+Please drop me a line at *jtlee 'at' wpi 'dot' edu* if you wish to get in touch. 
