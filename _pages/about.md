@@ -37,7 +37,7 @@ G.H. Nguyen, **J.B. Lee**, R.A. Rossi, N.K. Ahmed, E. Koh, and S. Kim. Continuou
 {: .notice}
 **J.B. Lee**, G. Cabunducan, R. Castillo, F.G. Cabarle, and J.A. Malinao. Uncovering the social dynamics of online elections. *Journal of Universal Computer Science* (**J.UCS**) 18(4), 2012. [[pdf](http://johnboaz.github.io/files/JUCS2012.pdf)]
 {: .notice}
-J.A. Malinao, R.A.B. Juayong, E.R.F. Oquendo, R.M.U. Tadlas, **J.B. Lee**, J.B. Clemente, M.S. Gaabucayan-Napalang, J.R.F. Regidor, and H.N. Adorna. A quantitative analaysis-based algorithm for optimal data signature construction of traffic data sets. *Journal of Information Processing* (**JIP**) 21(3), 2012.
+J.A. Malinao, R.A.B. Juayong, E.R.F. Oquendo, R.M.U. Tadlas, **J.B. Lee**, J.B. Clemente, M.S. Gaabucayan-Napalang, J.R.F. Regidor, and H.N. Adorna. A quantitative analysis-based algorithm for optimal data signature construction of traffic data sets. *Journal of Information Processing* (**JIP**) 21(3), 2012.
 {: .notice}
 G. Cabunducan, R. Castillo, and **J.B. Lee**. Voting behavior analysis in the election of Wikipedia admins. In *Proc. of* **ASONAM**, 2011. `best poster paper award` [[pdf](http://johnboaz.github.io/files/ASONAM2011.pdf), [poster](http://johnboaz.github.io/files/ASONAM2011_pos.pdf)]
 {: .notice}
