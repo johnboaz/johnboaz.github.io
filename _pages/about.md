@@ -15,6 +15,12 @@ Selected Publications
 ------
 For a comprehensive list of publications, please refer to my CV.
 
+**J.B. Lee**, X. Kong, C.M. Moore, and N.K. Ahmed. Deep parametric model for discovering group-cohesive functional brain regions. In *Proc. of* **SDM**, 2020. `acceptance rate: 24.0%` [[pdf](http://johnboaz.github.io/files/SDM2020_I.pdf)]
+{: .notice}
+
+X. Dai, X. Kong, X. Liu, **J.B. Lee**, and C. Moore. Dual-attention recurrent networks for affine registration of neuroimaging data. In *Proc. of* **SDM**, 2020. `acceptance rate: 24.0%` [[pdf](http://johnboaz.github.io/files/SDM2020_II.pdf)]
+{: .notice}
+
 **J.B. Lee**, R.A. Rossi, S. Kim, N.K. Ahmed, and E. Koh. Attention models in graphs: A survey. *ACM Transactions on Knowledge Discovery from Data* (**TKDD**) 13(6), 2019. [[pdf](http://johnboaz.github.io/files/TKDD2019.pdf)]
 {: .notice}
 
