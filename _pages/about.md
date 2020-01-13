@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a researcher whose areas of research include deep learning, data mining, information and social network analysis, and reinforcement learning. In January of 2020, I will be joining the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/) as a Research Scientist. Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
+Hi! I am a researcher whose areas of research include deep learning, data mining, information and social network analysis, and reinforcement learning. I am currently a Research Scientist in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/). Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
 
-From 2015-2019, I was a PhD student at [WPI](https://www.wpi.edu/) in the Computer Science Department—where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). The latest copy of my CV can be found [here](http://johnboaz.github.io/files/CV_Lee.pdf).
+From 2015-2019, I was a PhD student at [WPI](https://www.wpi.edu/) in the Computer Science Department — where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). Here is a copy of my updated [CV](http://johnboaz.github.io/files/CV_Lee.pdf).
 
 Selected Publications
 ------
