@@ -45,19 +45,10 @@ G.H. Nguyen, **J.B. Lee**, R.A. Rossi, N.K. Ahmed, E. Koh, and S. Kim. Continuou
 **J.B. Lee**, A. Ihara, A. Monden, and K. Matsumoto. Patch reviewer recommendation in OSS projects. In *Proc. of* **APSEC**, 2013. `best presentation award` [[pdf](http://johnboaz.github.io/files/APSEC2013.pdf)]
 {: .notice}
 
-**J.B. Lee**, M. Ybañez, M.M. de Leon, and M.R.E. Estuar. Understanding the behavior of Filipino Twitter users during disaster. *Journal on Computing* (**JoC**) 3(2), 2013.
-{: .notice}
-
-**J.B. Lee** and M. Ybañez. Characterizing behavior and features of participants and observers during disaster on Twitter. In *Proc. of* **CGAT**, 2013.
-{: .notice}
-
 **J.B. Lee** and H. Adorna. Link prediction in a modified heterogeneous bibliographic network. In *Proc. of* **ASONAM**, 2012. `acceptance rate: 16.2%` [[pdf](http://johnboaz.github.io/files/ASONAM2012.pdf)]
 {: .notice}
 
 **J.B. Lee**, G. Cabunducan, R. Castillo, F.G. Cabarle, and J.A. Malinao. Uncovering the social dynamics of online elections. *Journal of Universal Computer Science* (**J.UCS**) 18(4), 2012. [[pdf](http://johnboaz.github.io/files/JUCS2012.pdf)]
-{: .notice}
-
-J.A. Malinao, R.A.B. Juayong, E.R.F. Oquendo, R.M.U. Tadlas, **J.B. Lee**, J.B. Clemente, M.S. Gaabucayan-Napalang, J.R.F. Regidor, and H.N. Adorna. A quantitative analysis-based algorithm for optimal data signature construction of traffic data sets. *Journal of Information Processing* (**JIP**) 21(3), 2012.
 {: .notice}
 
 G. Cabunducan, R. Castillo, and **J.B. Lee**. Voting behavior analysis in the election of Wikipedia admins. In *Proc. of* **ASONAM**, 2011. `best poster paper award` [[pdf](http://johnboaz.github.io/files/ASONAM2011.pdf), [poster](http://johnboaz.github.io/files/ASONAM2011_pos.pdf)]
