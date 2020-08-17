@@ -18,6 +18,9 @@ For a comprehensive list of publications, please refer to my CV.
 X. Dai, X. Kong, T. Guo, **J.B. Lee**, X. Liu, and C. Moore. Recurrent networks for guided multi-attention classification. In *Proc. of* **KDD**, 2020. `acceptance rate: 16.8%` [[pdf](http://johnboaz.github.io/files/KDD2020.pdf)]
 {: .notice}
 
+R.A. Rossi, D. Jin, S. Kim, N.K. Ahmed, D. Koutra, and **J.B. Lee**. On proximity and structural role-based embeddings in networks: Misconceptions, techniques, and applications. *ACM Transactions on Knowledge Discovery from Data* (**TKDD**) 14(5), 2020. [[pdf](http://johnboaz.github.io/files/TKDD2020.pdf)]
+{: .notice}
+
 **J.B. Lee**, X. Kong, C.M. Moore, and N.K. Ahmed. Deep parametric model for discovering group-cohesive functional brain regions. In *Proc. of* **SDM**, 2020. `acceptance rate: 24.0%` [[pdf](http://johnboaz.github.io/files/SDM2020_I.pdf)]
 {: .notice}
 
