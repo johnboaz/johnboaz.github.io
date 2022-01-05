@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a researcher whose areas of research include deep learning, data mining, information and social network analysis, and reinforcement learning. I am currently a Research Scientist in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/). Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
+Hi! I am an applied machine learning researcher and engineer working primarily in the areas of deep learning, sequence and graph modeling, representation learning, and data mining. I am currently a [Research Scientist](https://research.facebook.com/people/lee-john-boaz/) in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/). Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
 
 From 2015-2019, I was a PhD student at [WPI](https://www.wpi.edu/) in the Computer Science Department — where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). Here is a copy of my updated [CV](http://johnboaz.github.io/files/CV_Lee.pdf).
 
 Selected Publications
 ------
-For a comprehensive list of publications, please refer to my CV.
+For a comprehensive list of publications, please refer to my CV or Google Scholar.
 
 X. Dai, X. Kong, T. Guo, **J.B. Lee**, X. Liu, and C. Moore. Recurrent networks for guided multi-attention classification. In *Proc. of* **KDD**, 2020. `acceptance rate: 16.8%` [[pdf](http://johnboaz.github.io/files/KDD2020.pdf)]
 {: .notice}
