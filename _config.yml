@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "John Boaz Lee"
   avatar           : "profile.png"
-  bio              : "Data mining and deep learning researcher working primarily with graphs"
+  bio              : "Data mining and deep learning researcher working primarily with graphs and sequences"
   location         : "Menlo Park, CA"
   employer         :
   pubmed           : 
