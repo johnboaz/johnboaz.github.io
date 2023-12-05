@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an applied machine learning researcher and engineer working primarily in the areas of deep learning, sequence and graph modeling, representation learning, and data mining. I am currently a [Research Scientist](https://research.facebook.com/people/lee-john-boaz/) in the [Core Data Science](https://research.fb.com/core-data-science/) team at [Facebook Research](https://research.fb.com/). Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
+Hi! I am an applied machine learning researcher and engineer working primarily in the areas of deep learning, sequence and graph modeling, representation learning, and data mining. I am currently a Senior Research Scientist in the [Central Applied Science](https://research.facebook.com/teams/central-applied-science/) team at [Facebook Research](https://research.facebook.com/). Prior to this, I also interned at Facebook Research, Adobe Research, and Xerox PARC.
 
 From 2015-2019, I was a PhD student at [WPI](https://www.wpi.edu/) in the Computer Science Department — where I had the privilege of working under the supervision of [Prof. Xiangnan Kong](https://web.cs.wpi.edu/~xkong/). Here is a copy of my updated [CV](http://johnboaz.github.io/files/CV_Lee.pdf).
 
